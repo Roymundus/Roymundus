@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Roymundus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Roymundus/Roymundus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Halo semua! 
+ 
+Perkenalkan nama saya **Alpian Roymundus Siringo-ringo**.<br>
+ 
+Saya seorang **Mahasiswa Informatika** di [Institut Teknologi Kalimantan (ITK)](https://itk.ac.id/) Angkatan 2021.<br>
+ 
+Saya memiliki minat pada bidang Machine Learning, Data Science dan juga Artificial Intelligence.
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alpian-roymundus-siringo-ringo-573776348/)ku ya.
+ 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Roymundus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Roymundus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Roymundus&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
