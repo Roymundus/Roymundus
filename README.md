@@ -6,8 +6,6 @@ Saya seorang **Mahasiswa Informatika** di [Institut Teknologi Kalimantan (ITK)](
  
 Saya memiliki minat pada bidang Machine Learning, Data Science dan juga Artificial Intelligence.
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alpian-roymundus-siringo-ringo-573776348/)ku ya.
- 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Roymundus">
